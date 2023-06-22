@@ -1,0 +1,18 @@
+.class {
+    background-color: rgb(255, 0, 0, .5);
+}
+
+.cooler {
+    font-size: larger;
+}
+
+#oneid {
+    font-size: xx-large;
+    color: rgb(0, 0, 255);
+}
+
+#twoid {
+    font-size: x-large;
+    background-color: rgb(0, 128, 0, .5);
+    font-weight: bold;
+}
